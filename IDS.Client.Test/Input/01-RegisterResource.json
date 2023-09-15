@@ -1,0 +1,13 @@
+{
+  "title": "CO2Path",
+  "description": "CO2Path Emissions Reports.",
+  "keywords": [
+    "CO2PATH"
+  ],
+  "publisher": "https://www.co2path.io",
+  "language": "EN",
+  "license": "TBD",
+  "sovereign": "https://www.co2path.io",
+  "endpointDocumentation": "TBD",
+  "paymentModality": "undefined"
+}
